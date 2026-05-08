@@ -5,7 +5,7 @@
 Reproduction and extension of:
 > Paquin, Stebila, Tamvada — "Benchmarking Post-Quantum Cryptography in TLS", PQCrypto 2020, Springer LNCS vol. 12100
 
-This experiment focuses on **packet loss** as the primary network variable, complementing the latency/bandwidth experiments conducted by Oussama Ebn Atou (available at: https://github.com/usama0print/pqc-tls-benchmarking).
+This experiment focuses on **packet loss** as the primary network variable.
 
 ## Research Question
 
